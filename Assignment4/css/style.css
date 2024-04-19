@@ -1,0 +1,33 @@
+body {
+background-color: Coral;
+}
+h1 {
+text-decoration: underline;
+text-align: center;
+}
+h2 {
+text-decoration: underline;
+}
+h3 {
+text-decoration: underline;
+text-align: center;
+}
+footer {
+text-align: center;
+border: 2px solid green;
+margin: 50px;
+padding: 15px;
+}
+img {
+float: right;
+}
+a{
+color: Maroon;
+}
+p{
+font-family: Georgia;
+font-size: 120%;
+}
+img.intro{
+float: left;
+}
